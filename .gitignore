@@ -1,3 +1,4 @@
-data/www.g-ba.de/*
+data/*
 .venv/*
 src/__pycache__/*
+notebook/progress

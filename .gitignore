@@ -1,3 +1,4 @@
 data/*
 .venv/*
 src/__pycache__/*
+notebook/progress

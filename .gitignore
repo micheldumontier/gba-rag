@@ -1,0 +1,3 @@
+data/www.g-ba.de/*
+.venv/*
+src/__pycache__/*

@@ -1,0 +1,12 @@
+llama-index
+llama-index-core
+llama-index-llms-ollama
+llama-index-vector-stores-qdrant==0.2.10
+llama_index.embeddings.ollama
+llama-index-embeddings-fastembed
+llama-index-readers-file 
+onnxruntime-gpu --extra-index-url https://aiinfra.pkgs.visualstudio.com/PublicPackages/_packaging/onnxruntime-cuda-12/pypi/simple/
+fastembed-gpu
+torch
+ipykernel
+qdrant_client
